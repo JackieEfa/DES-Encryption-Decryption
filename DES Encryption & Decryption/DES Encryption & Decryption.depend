@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1634029453 source:c:\users\minmi\desktop\homework & projects\c++\des encryption & decryption\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<unordered_map>
+
